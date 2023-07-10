@@ -2,3 +2,12 @@
   background-color: ghostwhite;
   height: 100vh;
 }
+
+h1{
+  font-size: 50px;
+  font-weight: 600;
+  color: black;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-family: Optima, sans-serif;
+}

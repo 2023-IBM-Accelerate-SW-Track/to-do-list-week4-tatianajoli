@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #6b1f8c;
 }
 
 .right {
@@ -26,17 +26,21 @@
 }
 
 .name_title {
-  font-size: 48px;
+  font-size: 50px;
+  font-weight: 600;
   color: black;
-  text-align: left;
+  text-align: center;
   padding-bottom: 20px;
+  font-family: Optima, sans-serif;
 }
 
 .brief_description {
   text-align: left;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .profile_image {
-  width: 500px;
+  width: 700px;
   height: auto;
 }

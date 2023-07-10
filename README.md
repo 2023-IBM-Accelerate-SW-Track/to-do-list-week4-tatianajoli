@@ -148,7 +148,7 @@ Upon completion of Week 4 Lab Project, all the necessary components and function
      ```
      "install-backend": "cd backend && npm install",
      "install-both": "npm install & npm run install-backend",
-     "backend": "cd backend && node server.js",
+     "backend": "cd backend && node index.js",
      "start-both": "npm run backend & npm start"
      ```
    + The `package.json` file `scripts` property should now look similar to the screen shot shown below:
